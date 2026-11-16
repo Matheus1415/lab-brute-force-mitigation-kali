@@ -1,4 +1,4 @@
-# Etapa 01 — Análise em Ambiente Vulnerável (Nível Low)
+# Etapa 01 - Análise em Ambiente Vulnerável (Nível Low)
 
 ## 1. Objetivo
 Avaliar o comportamento do módulo de autenticação do DVWA (*Damn Vulnerable Web Application*) sem mecanismos de proteção ativos, utilizando a ferramenta **Hydra** em conjunto com listas fictícias de usuários (`users.txt`) e senhas (`passwords.txt`).
