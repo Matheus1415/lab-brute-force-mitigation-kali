@@ -1,4 +1,4 @@
-# 🛡️ Desafio DIO — Análise de Vulnerabilidades de Autenticação e Mitigação (DVWA)
+# Desafio DIO - Análise de Vulnerabilidades de Autenticação e Mitigação (DVWA)
 
 > **⚠️ Aviso Ético (*Disclaimer*):** Todo o conteúdo, configurações e análises documentadas neste repositório foram realizados **exclusivamente em ambiente local isolado e controlado** (Docker/DVWA), com fins estritamente educacionais para o bootcamp de Cibersegurança da DIO. Nunca execute testes de validação de credenciais em sistemas sem autorização prévia e formal.
 
